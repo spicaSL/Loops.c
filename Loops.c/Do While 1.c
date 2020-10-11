@@ -1,11 +1,11 @@
 #include <stdio.h>
 int main ()
 {
-int num,c=1,odd=0,even=0;
+int number,c=1,odd=0,even=0;
 do
 {
 printf("Enter number ");
-scanf("%d",&num);
+scanf("%d",&number);
 if(nu%2==0)
 even++;
 else
